@@ -18,6 +18,7 @@
 		D5418B3820B9A02A001D620C /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3120B9A029001D620C /* home.png */; };
 		D5418B3B20B9A512001D620C /* firebase1.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3920B9A512001D620C /* firebase1.png */; };
 		D5418B3C20B9A512001D620C /* firebase2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3A20B9A512001D620C /* firebase2.png */; };
+		D5418B3E20B9A938001D620C /* swiftxcode.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3D20B9A938001D620C /* swiftxcode.jpg */; };
 		D54BB52720B54ACF0085C370 /* FirebaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54BB52620B54ACF0085C370 /* FirebaseViewController.swift */; };
 		D5D3F10D20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D3F10C20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift */; };
 		D5D4807920AEF552004F5ADF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D4807820AEF552004F5ADF /* AppDelegate.swift */; };
@@ -49,6 +50,7 @@
 		D5418B3120B9A029001D620C /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		D5418B3920B9A512001D620C /* firebase1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firebase1.png; sourceTree = "<group>"; };
 		D5418B3A20B9A512001D620C /* firebase2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = firebase2.png; sourceTree = "<group>"; };
+		D5418B3D20B9A938001D620C /* swiftxcode.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swiftxcode.jpg; sourceTree = "<group>"; };
 		D54BB52620B54ACF0085C370 /* FirebaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseViewController.swift; sourceTree = "<group>"; };
 		D5D3F10C20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseAuthenticator.swift; sourceTree = "<group>"; };
 		D5D4807520AEF552004F5ADF /* SwiftSocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftSocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -109,6 +111,7 @@
 		D5418B2A20B99C84001D620C /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				D5418B3D20B9A938001D620C /* swiftxcode.jpg */,
 				D5418B3920B9A512001D620C /* firebase1.png */,
 				D5418B3A20B9A512001D620C /* firebase2.png */,
 				D5418B2E20B9A028001D620C /* fb1.png */,
@@ -253,6 +256,7 @@
 				D5418B3B20B9A512001D620C /* firebase1.png in Resources */,
 				D5418B3720B9A02A001D620C /* google2.png in Resources */,
 				D5418B3320B9A02A001D620C /* fb2.png in Resources */,
+				D5418B3E20B9A938001D620C /* swiftxcode.jpg in Resources */,
 				D50D70A420B9443D00F9D88B /* GoogleService-Info.plist in Resources */,
 				D5418B3C20B9A512001D620C /* firebase2.png in Resources */,
 			);
