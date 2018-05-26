@@ -4,8 +4,16 @@ Social Login's have become a must to have feature in every app that is build now
 
 Following are couple of screenshots to get you a glimpse of what the sample deliver's to you,
 
-
-
+<p float="left">
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/home.png" width="400" />
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/signup.png" width="400" />
+    <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/firebase1.png" width="400" />
+    <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/firebase2.png" width="400" />
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/google2.png" width="400" />
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/google1.png" width="400" />
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/fb1.png" width="400" />
+  <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/fb3.png" width="400" />
+</p>
 
 
 ### Spread Your ❤️:
