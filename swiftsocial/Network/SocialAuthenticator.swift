@@ -7,7 +7,8 @@
 //
 
 import Foundation
-import FBSDKLoginKit
+import FBSDKCoreKit
+import FBSDKLoginKit 
 
 class SocialAuthenticator {
     

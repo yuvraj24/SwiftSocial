@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88AE4B8E01AFFF3A45DC9B88 /* Pods_SwiftSocial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 474904C1D18515D2338FE798 /* Pods_SwiftSocial.framework */; };
 		D50D70A420B9443D00F9D88B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D50D70A320B9443D00F9D88B /* GoogleService-Info.plist */; };
 		D54BB52720B54ACF0085C370 /* FirebaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54BB52620B54ACF0085C370 /* FirebaseViewController.swift */; };
 		D5D3F10D20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D3F10C20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		474904C1D18515D2338FE798 /* Pods_SwiftSocial.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftSocial.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		64BF18EB7EA0A352287C2039 /* Pods-SwiftSocial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSocial.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSocial/Pods-SwiftSocial.debug.xcconfig"; sourceTree = "<group>"; };
 		C84725ECA8AC99708758BF82 /* Pods-SwiftSocial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSocial.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSocial/Pods-SwiftSocial.release.xcconfig"; sourceTree = "<group>"; };
 		D50D70A320B9443D00F9D88B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88AE4B8E01AFFF3A45DC9B88 /* Pods_SwiftSocial.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,6 +74,7 @@
 		76A856C51E4B61E4FCC4DBDF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				474904C1D18515D2338FE798 /* Pods_SwiftSocial.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
