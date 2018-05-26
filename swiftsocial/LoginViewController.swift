@@ -70,6 +70,7 @@ SocialDelegate, GIDSignInDelegate, GIDSignInUIDelegate{
     func onApiResponse(user: AuthDataResult) {
         hideProgressIndicator()
         print(user)
+        labelError.isHidden = false;
         labelError.text = "Login Successful : "+user.user.email!+""
     }
     
