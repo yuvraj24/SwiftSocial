@@ -22,6 +22,7 @@ SocialDelegate, GIDSignInDelegate, GIDSignInUIDelegate{
     @IBOutlet var labelError: UILabel!
     @IBOutlet var googleButton: GIDSignInButton!
     
+    
     let fireAuth : FirebaseAuthenticator = FirebaseAuthenticator()
     let socialAuth : SocialAuthenticator = SocialAuthenticator()
     
@@ -30,6 +31,7 @@ SocialDelegate, GIDSignInDelegate, GIDSignInUIDelegate{
         labelError.isHidden = true
         
         loginButton.readPermissions = ["public_profile", "email"]
+        loginButton.frame = CGRect(x: 0, y: 0, width: 200, height: 45)
         loginButton.delegate = self
         GIDSignIn.sharedInstance().delegate = self
         GIDSignIn.sharedInstance().uiDelegate = self

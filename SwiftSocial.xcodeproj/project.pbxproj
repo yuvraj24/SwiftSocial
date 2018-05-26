@@ -9,6 +9,13 @@
 /* Begin PBXBuildFile section */
 		88AE4B8E01AFFF3A45DC9B88 /* Pods_SwiftSocial.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 474904C1D18515D2338FE798 /* Pods_SwiftSocial.framework */; };
 		D50D70A420B9443D00F9D88B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D50D70A320B9443D00F9D88B /* GoogleService-Info.plist */; };
+		D5418B3220B9A02A001D620C /* google1.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B2B20B9A027001D620C /* google1.png */; };
+		D5418B3320B9A02A001D620C /* fb2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B2C20B9A027001D620C /* fb2.png */; };
+		D5418B3420B9A02A001D620C /* signup.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B2D20B9A028001D620C /* signup.png */; };
+		D5418B3520B9A02A001D620C /* fb1.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B2E20B9A028001D620C /* fb1.png */; };
+		D5418B3620B9A02A001D620C /* fb3.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B2F20B9A029001D620C /* fb3.png */; };
+		D5418B3720B9A02A001D620C /* google2.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3020B9A029001D620C /* google2.png */; };
+		D5418B3820B9A02A001D620C /* home.png in Resources */ = {isa = PBXBuildFile; fileRef = D5418B3120B9A029001D620C /* home.png */; };
 		D54BB52720B54ACF0085C370 /* FirebaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D54BB52620B54ACF0085C370 /* FirebaseViewController.swift */; };
 		D5D3F10D20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D3F10C20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift */; };
 		D5D4807920AEF552004F5ADF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D4807820AEF552004F5ADF /* AppDelegate.swift */; };
@@ -31,6 +38,13 @@
 		64BF18EB7EA0A352287C2039 /* Pods-SwiftSocial.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSocial.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSocial/Pods-SwiftSocial.debug.xcconfig"; sourceTree = "<group>"; };
 		C84725ECA8AC99708758BF82 /* Pods-SwiftSocial.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftSocial.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftSocial/Pods-SwiftSocial.release.xcconfig"; sourceTree = "<group>"; };
 		D50D70A320B9443D00F9D88B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		D5418B2B20B9A027001D620C /* google1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = google1.png; sourceTree = "<group>"; };
+		D5418B2C20B9A027001D620C /* fb2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb2.png; sourceTree = "<group>"; };
+		D5418B2D20B9A028001D620C /* signup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signup.png; sourceTree = "<group>"; };
+		D5418B2E20B9A028001D620C /* fb1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb1.png; sourceTree = "<group>"; };
+		D5418B2F20B9A029001D620C /* fb3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fb3.png; sourceTree = "<group>"; };
+		D5418B3020B9A029001D620C /* google2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = google2.png; sourceTree = "<group>"; };
+		D5418B3120B9A029001D620C /* home.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = home.png; sourceTree = "<group>"; };
 		D54BB52620B54ACF0085C370 /* FirebaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseViewController.swift; sourceTree = "<group>"; };
 		D5D3F10C20B6AA0F00C5C2AA /* FirebaseAuthenticator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseAuthenticator.swift; sourceTree = "<group>"; };
 		D5D4807520AEF552004F5ADF /* SwiftSocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftSocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -88,6 +102,20 @@
 			path = Network;
 			sourceTree = "<group>";
 		};
+		D5418B2A20B99C84001D620C /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				D5418B2E20B9A028001D620C /* fb1.png */,
+				D5418B2C20B9A027001D620C /* fb2.png */,
+				D5418B2F20B9A029001D620C /* fb3.png */,
+				D5418B2B20B9A027001D620C /* google1.png */,
+				D5418B3020B9A029001D620C /* google2.png */,
+				D5418B3120B9A029001D620C /* home.png */,
+				D5418B2D20B9A028001D620C /* signup.png */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		D5D4806C20AEF552004F5ADF = {
 			isa = PBXGroup;
 			children = (
@@ -109,6 +137,7 @@
 		D5D4807720AEF552004F5ADF /* swiftsocial */ = {
 			isa = PBXGroup;
 			children = (
+				D5418B2A20B99C84001D620C /* Screenshots */,
 				D50D70A320B9443D00F9D88B /* GoogleService-Info.plist */,
 				D5FDF0F820B8225500D68D8D /* Delegate */,
 				D5D4807C20AEF552004F5ADF /* Main.storyboard */,
@@ -207,9 +236,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				D5D4808320AEF555004F5ADF /* LaunchScreen.storyboard in Resources */,
+				D5418B3620B9A02A001D620C /* fb3.png in Resources */,
 				D5D4808020AEF555004F5ADF /* Assets.xcassets in Resources */,
 				D5D4807E20AEF552004F5ADF /* Main.storyboard in Resources */,
+				D5418B3520B9A02A001D620C /* fb1.png in Resources */,
+				D5418B3420B9A02A001D620C /* signup.png in Resources */,
 				D5D4809D20B3E95D004F5ADF /* LoginMain.storyboard in Resources */,
+				D5418B3220B9A02A001D620C /* google1.png in Resources */,
+				D5418B3820B9A02A001D620C /* home.png in Resources */,
+				D5418B3720B9A02A001D620C /* google2.png in Resources */,
+				D5418B3320B9A02A001D620C /* fb2.png in Resources */,
 				D50D70A420B9443D00F9D88B /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
