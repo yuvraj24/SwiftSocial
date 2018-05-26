@@ -1,8 +1,9 @@
 # SwiftSocial
 
-Social Login's have become a must to have feature in every app that is build now a days. This sample demonstrates the usage  of native Facebook, Google & Firebase Authentication Sdk's developed with love in Swift 4.1 & XCode 9.
+Social Login's have become a must to have feature in every app that is build now a days.</br>
+This sample demonstrates the usage  of native <b>Facebook, Google & Firebase Authentication</b> Sdk's developed with love in Swift 4.1 & XCode 9.
 
-Following are couple of screenshots to get you a glimpse of what the sample deliver's to you,
+Following are some screenshots to get a glimpse of what the sample deliver's to you,
 
 <p float="left">
   <img src="https://github.com/yuvraj24/SwiftSocial/blob/master/swiftsocial/Screenshots/home.png" width="400" />
